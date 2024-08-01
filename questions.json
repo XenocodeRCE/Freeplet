@@ -15,5 +15,22 @@
             "text": "Si vous deviez retenir UNE SEULE id\u00e9e du cours, laquelle serait-ce ?",
             "type": "text"
         }
+    ],
+    "4": [
+        {
+            "id": 1,
+            "text": "Quel est votre niveau de compr\u00e9hension ?",
+            "type": "vote"
+        },
+        {
+            "id": 2,
+            "text": "Comment avez-vous trouv\u00e9 le cours d'aujourd'hui ?",
+            "type": "vote"
+        },
+        {
+            "id": 3,
+            "text": "\u00e7a dit quoi ?",
+            "type": "text"
+        }
     ]
 }

@@ -1,0 +1,24 @@
+[
+    {
+        "username": "prof1",
+        "password": "hashed_password1",
+        "classes": [
+            1,
+            2
+        ]
+    },
+    {
+        "username": "prof2",
+        "password": "hashed_password2",
+        "classes": [
+            3
+        ]
+    },
+    {
+        "username": "test",
+        "password": "$2y$10$KVvSO664XMwwyzmoPautIubUezWMgpCI\/skWljJGOZsJJL7JbTiA.",
+        "classes": [
+            4
+        ]
+    }
+]
