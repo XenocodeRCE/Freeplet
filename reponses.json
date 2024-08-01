@@ -1,0 +1,17 @@
+{
+    "1": [
+        {
+            "name": "Élève 1",
+            "answers": [
+                {
+                    "questionId": 1,
+                    "answer": "C'était très intéressant."
+                },
+                {
+                    "questionId": 2,
+                    "answer": 8
+                }
+            ]
+        }
+    ]
+}

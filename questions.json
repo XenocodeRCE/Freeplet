@@ -1,0 +1,19 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "text": "Bonjour, comment \u00e7a va aujourd'hui ?",
+            "type": "text"
+        },
+        {
+            "id": 2,
+            "text": "Est-ce que vous avez appr\u00e9ci\u00e9 le cours d'aujourd'hui ?",
+            "type": "vote"
+        },
+        {
+            "id": 3,
+            "text": "Si vous deviez retenir UNE SEULE id\u00e9e du cours, laquelle serait-ce ?",
+            "type": "text"
+        }
+    ]
+}
